@@ -136,7 +136,7 @@ button.error-msg {
 
 @media (max-width:600px){
   h2 {
-    font-size: 48px;
+    font-size: 54px;
     font-weight: 700;
     line-height: 71px;
   }
@@ -145,7 +145,7 @@ button.error-msg {
     padding-right: 0;
     color: #4F4F4F;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 22px;
     line-height: 26px;
   }
 
